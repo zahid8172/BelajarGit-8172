@@ -1,4 +1,9 @@
 <?php 
+
+// komentar dari server
+//++++++++++++++++++
+
+
 require_once('DBClass.php');
 require_once('m_siswa.php');
 
