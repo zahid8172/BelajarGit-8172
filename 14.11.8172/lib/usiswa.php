@@ -1,4 +1,8 @@
-<?php 
+<?php
+
+// contoh komentar lagi
+//***********************
+
 require_once('DBClass.php');
 require_once('m_siswa.php');
 require_once('m_nationality  /.php');
